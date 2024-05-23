@@ -1,3 +1,6 @@
+Uygulamanın amacı kitap bilgilerini görebilidiğimiz ve o kitaplarla ilgili yorumları okumamıza sağlayan bir uygulamadır.
+
+
 ![Ekran Alıntısı](https://github.com/muratgull07/Online-Kitap-Okuma-Sistemi/assets/148050387/da5f1df6-8038-48cc-a746-86c6698fe8bd)
 
 
